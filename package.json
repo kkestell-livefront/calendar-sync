@@ -1,0 +1,13 @@
+{
+  "name": "calendar-sync",
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/scrape.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.60.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1"
+  }
+}

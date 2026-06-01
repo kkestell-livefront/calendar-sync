@@ -1,0 +1,6 @@
+{
+  "gmailAccount": "you@livefront.com",
+  "o365Account": "you@company.com",
+  "destinationCalendarName": "Acme Inc.",
+  "outputPath": "output.json"
+}
